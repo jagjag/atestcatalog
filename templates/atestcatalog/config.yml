@@ -1,8 +1,6 @@
 name: atestapp
 description: |
-  # Description of the Catalog Entry
+  Description of the Catalog Entry
 version: v1.0 # Version of the Catalog to be used
 category: demo # Category to be used for searching catalog entries
 maintainer: JJ # The maintainer of the catalog entry
-license: # The license
-projectURL: # A URL related to the catalog entry
